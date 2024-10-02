@@ -1,2 +1,2 @@
 # toy_ds_project
-Test repository for DSCI 100
+project creation date: October 2, 2024
